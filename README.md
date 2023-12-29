@@ -8,7 +8,7 @@ A simple desktop app to manage students record. **record are saved directly on a
 >Admin have full access to manipulate the data.
 
 >Student account can only view the data.
-## `Login`
+<!--## `Login`
 <img src="ScreenShot/Home.JPG">
 
 ## `Logged in as Admin`
@@ -18,7 +18,7 @@ A simple desktop app to manage students record. **record are saved directly on a
 <img src="ScreenShot/ViewData.JPG">
 
 ## ``Records Saved in Excel File``
-<img src="ScreenShot/ViewExcel.JPG">
+<img src="ScreenShot/ViewExcel.JPG">-->
 
 ### Running on Local machine
 
